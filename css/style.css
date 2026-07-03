@@ -228,12 +228,12 @@ img {
 }
 
 .logo img {
-    width: 100px;
-    height: 100px;
+    width: 1220px;
+    height: auto;
     /*object-fit: contain;*/
 }
 
-.logo-text {
+/*.logo-text {
     display: flex;
     flex-direction: column;
 }
@@ -252,7 +252,7 @@ img {
     color: var(--text-light);
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 600;*/
 }
 
 .nav-menu {
