@@ -6,8 +6,10 @@
 const siteConfig = {
     // Company Info
     companyName: "INCEPT",
-    companyTagline: "Education Consultancy",
+    companyTagline: "Education Consultancy Pvt. Ltd.",
     companyFullName: "Incept Education Consultancy Pvt Ltd",
+    partnersHeading: "Our Partner Universities",
+    successStoriesHeading: "Recent Visa Success Stories",
     
     // Contact Info
     phone: "01-4547405",
